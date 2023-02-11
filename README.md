@@ -3,10 +3,10 @@ My-Devops-Repo
 
 my devops roadmaps include: codes, concepts , subject ,...
 
-##list of contents:
-  ###devops fundumental
-  ###docker
+## list of contents:
+  ### devops fundumental
+  ### docker
   
-##configuration managment
+## configuration managment
   ansible
 
